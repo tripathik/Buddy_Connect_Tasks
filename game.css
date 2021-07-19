@@ -1,0 +1,31 @@
+body{
+    background-color:darkgrey;
+}
+.dt
+{
+    width: 40%;
+    border: 3px solid midnightblue;
+    display: block;
+    flex-wrap: wrap;
+    margin-left: 50%;
+    text-align: center;
+    color:greenyellow;
+}
+table
+{
+    margin:auto 60% auto 30%;   
+}
+button
+{
+    background-color: rgb(87, 79, 79);   
+    margin:40% auto 20% auto;  
+    padding:20px;
+    font-size: large;
+    font-weight: bold;
+}
+input
+{
+    background-color: rgb(58, 82, 133);
+    font-size: large;
+    font-weight: bold;
+}
